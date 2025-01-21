@@ -1,4 +1,4 @@
-# A Social Media Example Application
+# **A Social Media Example Application**
 
 This example illustrates how to use channels for cross-chain messages.
 
